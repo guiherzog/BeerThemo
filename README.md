@@ -1,4 +1,4 @@
-# BeerThemo
+# BeerThermometer WebMonitor
 These instructions are in portuguese, if you need them in English contact me on guilhermeherzog at gmail.
 
 Este é um projeto que utiliza o módulo wifi NodeMCU com a IDE do Arduino e um Sensor de Temperatura implementado via OneWire.
